@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### Hi👋 I'm Software Engineer
+<div>
+  <img src="https://github.com/omadli/omadli/raw/master/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</div>
 <!--
 **WARRI0R-KING/WARRI0R-KING** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
